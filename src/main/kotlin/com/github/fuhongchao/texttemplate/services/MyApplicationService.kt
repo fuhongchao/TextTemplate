@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fuhongchao.texttemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fuhongchao.texttemplate.MyBundle
 
 class MyApplicationService {
 
